@@ -1,0 +1,6 @@
+[submodule "external/max_e1_apps"]
+	path = external/max_e1_apps
+	url = https://github.com/meganetaaan/max_e1_apps
+[submodule "external/UnitV2Framework"]
+	path = external/UnitV2Framework
+	url = https://github.com/meganetaaan/UnitV2Framework
